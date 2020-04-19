@@ -1,0 +1,67 @@
+.displayInRow {
+  display: flex;
+  flex-direction: column;
+}
+
+.displayInColumn {
+  display: flex;
+  flex-direction: row;
+}
+
+.listStyle {
+  list-style-type: none;
+}
+
+.flexCenterAlign {
+  justify-content: center;
+}
+
+.flexAlignLeft {
+  justify-content: flex-start;
+}
+
+.flexWithSpace {
+  display: flex;
+  justify-content: space-between;
+}
+
+.flexWrap {
+  flex-wrap: wrap;
+}
+
+.textCenter {
+  text-align: center;
+}
+
+.buttonStyle {
+  boder-style: none;
+  border-width: 1px;
+  background-color: yellow;
+  padding: 5px;
+  border-radius: 10px;
+  outline: none;
+}
+
+.horizontalseperator {
+  margin-top: 10px;
+  boder-top-width: 1px;
+  border-width: thin;
+  border-style: groove;
+  border-left-width: 0px;
+  border-bottom-width: 0px;
+  border-right-width: 0px;
+}
+
+.dialogbtnStyle {
+  text-align: center;
+  flex: 50%;
+  padding-bottom: 2px;
+}
+
+.blueBtn {
+  color: blue;
+  font-size: medium;
+  font-weight: bold;
+  background-color: white;
+  border: 0px;
+}

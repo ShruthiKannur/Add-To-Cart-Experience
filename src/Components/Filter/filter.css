@@ -1,0 +1,28 @@
+.filter__div {
+  flex: 50%;
+}
+
+.filterDialog__input {
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  -ms-appearance: none;
+  background: #8e8e93;
+  height: 5px;
+}
+
+.filter__apply__button {
+  background-color: blue;
+  border-radius: 10px;
+  color: white;
+  border-style: solid;
+  margin-top: 20px;
+  padding: 5px;
+  width: 100px;
+}
+
+.filterDialog__div {
+  margin-top: 10px;
+  margin-left: 10px;
+  margin-right: 10px;
+  margin-bottom: 0px;
+}

@@ -1,0 +1,14 @@
+.mainContainer__div {
+  margin-top: 5px;
+  border: 0;
+  border-bottom: 1px;
+  border-style: groove;
+}
+
+.maincontainer__desktop__div {
+  width: 25%;
+  border-right-width: 1px;
+  border-width: thin;
+  border-style: solid;
+  border-bottom-width: 0px;
+}

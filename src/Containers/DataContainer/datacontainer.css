@@ -1,0 +1,27 @@
+.dataContainer__div {
+  flex-wrap: wrap;
+  margin: 0;
+  padding: 0;
+}
+
+.dataContainer__div__div {
+  padding: 5px;
+  border-style: groove;
+  border-width: thin;
+  border-right-width: 1px;
+  border-top-width: 0px;
+}
+
+.dataContainer__dataItem__main {
+  border: 0;
+  flex-direction: column;
+  padding: 5px;
+}
+
+.dataContainer__dataItem__detail {
+  padding: 5px;
+}
+
+.dataContainer__dataItem__div {
+  flex: 20%;
+}

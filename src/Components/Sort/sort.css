@@ -1,0 +1,23 @@
+.sort__div {
+  flex: 50%;
+  border: 0;
+  border-right: 1px;
+  border-style: groove;
+}
+
+.searchDialog__ul {
+  list-style-type: none;
+  left: 0px;
+  text-align: left;
+  padding: 10px;
+}
+
+.searchDialog__li {
+  padding: 5px;
+}
+
+.searchDialog__input__desktop {
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  -ms-appearance: none;
+}

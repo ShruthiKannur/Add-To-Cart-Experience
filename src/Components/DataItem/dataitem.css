@@ -1,0 +1,26 @@
+.dataItem__div__div {
+  padding: 5px;
+  font-size: small;
+}
+
+.dataItem__div__discountedLabel {
+  font-weight: bold;
+  font-size: small;
+}
+
+.dataItem__div__actualLabel {
+  font-size: 12px;
+  text-decoration: line-through;
+  padding: 2px;
+}
+
+.dataItem__div__discountLabel {
+  padding-left: 5px;
+  color: green;
+  font-size: small;
+  font-weight: bold;
+}
+
+.dataItem__div {
+  padding-left: 5px;
+}

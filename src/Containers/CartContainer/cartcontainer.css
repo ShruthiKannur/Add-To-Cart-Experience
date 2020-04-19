@@ -1,0 +1,80 @@
+.cartContainer__sectionOne__div {
+  flex: 70%;
+  padding: 5px;
+  border-top-width: 1px;
+}
+
+.cartContainer__divSectionTwo {
+  flex: 20%;
+  padding: 5px;
+}
+
+.cartContainer__divSectionTwo__div {
+  padding: 5px;
+  border-style: groove;
+  border-width: thin;
+  border-right-width: 1px;
+  border-top-width: 1px;
+  margin: 10px;
+}
+
+.cartContainer__dataItem__detail {
+  padding-left: 10px;
+  font-size: smaller;
+}
+
+.cartContainer__dataItem__title {
+  width: 100px;
+  padding-right: 20px;
+}
+
+.cartContainer__divSectionTwo__divSeperator {
+  margin-bottom: 10px;
+}
+
+.cartContainer__divSectionTwo__divFullWidth {
+  padding-left: 0px;
+  padding-right: 0px;
+}
+
+.cartContainer__divSectionTwo__h3 {
+  padding: 5px;
+  opacity: 0.5;
+}
+
+.cartContainer__divSectionTwo__span {
+  padding: 10px;
+}
+
+.cartContainer__divSectionTwo__spanBold {
+  font-weight: bold;
+}
+
+.cartContainer__dataItem__div {
+  align-items: center;
+  padding-top: 20px;
+}
+
+.cartContainer__dataItem__divButton {
+  text-align: center;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  padding-top: 20px;
+}
+
+.cartContainer__dataItem__button {
+  font-weight: bold;
+  font-size: large;
+  border-style: none;
+  background-color: white;
+}
+
+.cartContainer__dataItem__input {
+  padding: 10px;
+  border-width:thin;
+  height: 10px;
+  width: 30px;
+  margin-right: 10px;
+  margin-left: 10px;
+}

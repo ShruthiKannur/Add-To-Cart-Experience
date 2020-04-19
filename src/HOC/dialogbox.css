@@ -1,0 +1,53 @@
+.mask {
+  top: 0px;
+  left: 0px;
+  position: fixed;
+  background-color: rgba(0, 0, 0, 0.5);
+  z-index: 1;
+  width: 100%;
+  height: 100%;
+}
+
+.box {
+  z-index: 1;
+  top: 10%;
+  left: 20%;
+  right: 20%;
+  background-color: white;
+  position: absolute;
+}
+
+.title {
+  margin: 0px;
+  text-align: left;
+  padding: 10px;
+  padding-bottom: 20px;
+}
+
+.horizontalseperator {
+  margin-top: 20px;
+  margin-bottom: 0px;
+  boder-top-width: 1px;
+  border-width: thin;
+  border-style: groove;
+  border-left-width: 0px;
+  border-bottom-width: 0px;
+  border-right-width: 0px;
+}
+
+.verticalseperator {
+  border-left-width: 1px;
+  border-width: thin;
+  border-style: groove;
+  border-top-width: 0px;
+  border-bottom-width: 0px;
+  border-right-width: 0px;
+  height: 30px;
+}
+
+.actions {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: flex-end;
+}
