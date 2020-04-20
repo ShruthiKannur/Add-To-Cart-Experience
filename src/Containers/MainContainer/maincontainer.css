@@ -12,3 +12,9 @@
   border-style: solid;
   border-bottom-width: 0px;
 }
+
+.maincontainer__desktop__divFullScreen {
+  width: -webkit-fill-available;
+  width: -moz-fill-available;
+  width: -ms-fill-available;
+}

@@ -22,7 +22,7 @@ export class MainContainer extends PureComponent {
         <div className="maincontainer__desktop__div">
           <Filter custStyle={{marginTop: 20}} displayIcon={false} custLabelStyle={{fontWeight: 'bold', textAlign: 'left'}}/>
         </div>
-        <div className="displayInRow">
+        <div className="displayInRow maincontainer__desktop__divFullScreen">
           <Sort custStyle={{textAlign: 'left',marginLeft: 10, height: 30, flex: 'none'}} displayIcon={false} custLabelStyle={{fontWeight: 'bold', textAlign: 'left'}}/>
           <div className="horizontalseperator"> </div>
           <DataContainer />

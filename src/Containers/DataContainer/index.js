@@ -126,7 +126,7 @@ export class DataContainer extends PureComponent {
     }
 
     data.forEach((ele, i) => {
-      if(this.state.filterByName && ele.name.includes(this.state.filterByName)) {
+      if(this.state.filterByName && ele.name && ele.name.toLowerCase().includes(this.state.filterByName.toLowerCase())) {
         dataItems.push(this.getElement(ele, i));
       }
       if (this.state.applyFilter && ele.price.actual >= this.state.filterByPrice.min && ele.price.actual <=this.state.filterByPrice.max) {

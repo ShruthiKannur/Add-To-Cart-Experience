@@ -10,7 +10,7 @@ export default {
     textAlign: 'center',
   },
   dataContainer: {
-    width: ((window.innerWidth - 250) / 5) - 15,
+    width: ((window.innerWidth - (0.25* window.innerWidth)) / 5),
   },
   imageStyle: {
     width: '30%',
