@@ -11,7 +11,7 @@ export class DataContainer extends PureComponent {
     super();
     this.state = {
       filterByName: null,
-      sortByPrice: null,
+      sortByPrice: 'highToLow',
       applyFilter: false,
       filterByPrice: {
         max: 100,
