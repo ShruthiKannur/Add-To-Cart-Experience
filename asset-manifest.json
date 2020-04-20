@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Add-To-Cart-Experience/static/css/main.ce936353.chunk.css",
+    "main.js": "/Add-To-Cart-Experience/static/js/main.87448da0.chunk.js",
+    "main.js.map": "/Add-To-Cart-Experience/static/js/main.87448da0.chunk.js.map",
+    "runtime-main.js": "/Add-To-Cart-Experience/static/js/runtime-main.85a11463.js",
+    "runtime-main.js.map": "/Add-To-Cart-Experience/static/js/runtime-main.85a11463.js.map",
+    "static/js/2.91d79a69.chunk.js": "/Add-To-Cart-Experience/static/js/2.91d79a69.chunk.js",
+    "static/js/2.91d79a69.chunk.js.map": "/Add-To-Cart-Experience/static/js/2.91d79a69.chunk.js.map",
+    "index.html": "/Add-To-Cart-Experience/index.html",
+    "precache-manifest.58f439529d05f3dabaa999e08b946de4.js": "/Add-To-Cart-Experience/precache-manifest.58f439529d05f3dabaa999e08b946de4.js",
+    "service-worker.js": "/Add-To-Cart-Experience/service-worker.js",
+    "static/css/main.ce936353.chunk.css.map": "/Add-To-Cart-Experience/static/css/main.ce936353.chunk.css.map",
+    "static/js/2.91d79a69.chunk.js.LICENSE.txt": "/Add-To-Cart-Experience/static/js/2.91d79a69.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.85a11463.js",
+    "static/js/2.91d79a69.chunk.js",
+    "static/css/main.ce936353.chunk.css",
+    "static/js/main.87448da0.chunk.js"
+  ]
+}
